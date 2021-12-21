@@ -9,15 +9,15 @@ import socket
 
 import threading
 
-print("~~~ DDOS TOOLS By Rence ~~~")
+print("~~~ DDOS TOOLS Not4~~~")
 
-print("~~~ Code and Scripted by Rence ~~~")
+print("~~~ Not Abuse~~~")
 
-print("~~~ Script ini dibuat hanya untuk rence Pribadi. ~~~")
+print("~~~ Im Not 4. ~~~")
 
-print("~~~ Don't Forget to subscribe Ren Samp ~~~")
+print("~~~ Dont Abuse ~~~")
 
-print("~~~ DDOS by rence dibuat hanya untuk kontent. ~~~")
+print("~~~ C"on. ~~~")
 
 ip = str(input(" Target Ip:"))
 
